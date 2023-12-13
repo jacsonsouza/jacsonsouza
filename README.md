@@ -1,7 +1,7 @@
 ### Hello! I'm Jacson 👋
 
 - 🔭 I’m currently studying at UTFPR
-- 🌱 I’m currently learning Laravel (Framework)
+- 🌱 I’m currently learning Ruby on Rails
 
 [![Jacson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacsonsouza&rank_icon=github&hide=stars&show_icons=true&theme=solarized-dark)](https://github.com/jacsonsouza/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacsonsouza&layout=compact&theme=solarized-dark)](https://github.com/jacsonsouza/github-readme-stats)
